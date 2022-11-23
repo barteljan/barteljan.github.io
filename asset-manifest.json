@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.2d99b616.css",
-    "main.js": "/static/js/main.eba9d6b9.js",
+    "main.js": "/static/js/main.b616ba75.js",
     "static/js/787.28d0d653.chunk.js": "/static/js/787.28d0d653.chunk.js",
     "static/media/warteraum.jpg": "/static/media/warteraum.fc756d41c12b204a5156.jpg",
     "static/media/bewegungsraum.jpg": "/static/media/bewegungsraum.86c15838bc5e027a3124.jpg",
@@ -9,7 +9,6 @@
     "static/media/kueche.jpg": "/static/media/kueche.276507d5352e7e09856a.jpg",
     "static/media/behandlungsraum.jpg": "/static/media/behandlungsraum.d461d72368950a7ef976.jpg",
     "static/media/titleImage.jpg": "/static/media/titleImage.4efaf90a484c54836a85.jpg",
-    "static/media/konzentrationsTraining.jpg": "/static/media/konzentrationsTraining.e49d0893b60678f2e090.jpg",
     "static/media/corselli.jpg": "/static/media/corselli.84d67678c14f419c9be4.jpg",
     "static/media/kinder.jpg": "/static/media/kinder.5f91f0265ca74e2a2634.jpg",
     "static/media/titelImage.jpg": "/static/media/titelImage.3a2605ed386c43be2d09.jpg",
@@ -22,11 +21,11 @@
     "static/media/ubartel.jpg": "/static/media/ubartel.4efaf90a484c54836a85.jpg",
     "index.html": "/index.html",
     "main.2d99b616.css.map": "/static/css/main.2d99b616.css.map",
-    "main.eba9d6b9.js.map": "/static/js/main.eba9d6b9.js.map",
+    "main.b616ba75.js.map": "/static/js/main.b616ba75.js.map",
     "787.28d0d653.chunk.js.map": "/static/js/787.28d0d653.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d99b616.css",
-    "static/js/main.eba9d6b9.js"
+    "static/js/main.b616ba75.js"
   ]
 }
