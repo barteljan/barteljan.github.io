@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6ea839fa.css",
-    "main.js": "/static/js/main.91a6d5c0.js",
+    "main.css": "/static/css/main.177f0301.css",
+    "main.js": "/static/js/main.618e8c43.js",
     "static/js/787.28d0d653.chunk.js": "/static/js/787.28d0d653.chunk.js",
     "static/media/warteraum.jpg": "/static/media/warteraum.fc756d41c12b204a5156.jpg",
     "static/media/bewegungsraum.jpg": "/static/media/bewegungsraum.86c15838bc5e027a3124.jpg",
@@ -21,12 +21,12 @@
     "static/media/logo.png": "/static/media/logo.514422876e818817644d.png",
     "static/media/ubartel.jpg": "/static/media/ubartel.4efaf90a484c54836a85.jpg",
     "index.html": "/index.html",
-    "main.6ea839fa.css.map": "/static/css/main.6ea839fa.css.map",
-    "main.91a6d5c0.js.map": "/static/js/main.91a6d5c0.js.map",
+    "main.177f0301.css.map": "/static/css/main.177f0301.css.map",
+    "main.618e8c43.js.map": "/static/js/main.618e8c43.js.map",
     "787.28d0d653.chunk.js.map": "/static/js/787.28d0d653.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6ea839fa.css",
-    "static/js/main.91a6d5c0.js"
+    "static/css/main.177f0301.css",
+    "static/js/main.618e8c43.js"
   ]
 }
