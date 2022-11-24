@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.2d99b616.css",
-    "main.js": "/static/js/main.b616ba75.js",
+    "main.css": "/static/css/main.6ea839fa.css",
+    "main.js": "/static/js/main.91a6d5c0.js",
     "static/js/787.28d0d653.chunk.js": "/static/js/787.28d0d653.chunk.js",
     "static/media/warteraum.jpg": "/static/media/warteraum.fc756d41c12b204a5156.jpg",
     "static/media/bewegungsraum.jpg": "/static/media/bewegungsraum.86c15838bc5e027a3124.jpg",
@@ -14,18 +14,19 @@
     "static/media/titelImage.jpg": "/static/media/titelImage.3a2605ed386c43be2d09.jpg",
     "static/media/erwachsene.jpg": "/static/media/erwachsene.dca6e161d6c7b3ccae5e.jpg",
     "static/media/jbartel.jpg": "/static/media/jbartel.46d5fe12c89dcc165088.jpg",
+    "static/media/map.jpg": "/static/media/map.011e18867680b08a4a08.jpg",
     "static/media/ssoelling.jpg": "/static/media/ssoelling.61851e11daa82d536e07.jpg",
     "static/media/lmhansen.jpg": "/static/media/lmhansen.1bc593e59b06193ab546.jpg",
     "static/media/cborgers.jpg": "/static/media/cborgers.04dda55c12ee079e0e7d.jpg",
     "static/media/logo.png": "/static/media/logo.514422876e818817644d.png",
     "static/media/ubartel.jpg": "/static/media/ubartel.4efaf90a484c54836a85.jpg",
     "index.html": "/index.html",
-    "main.2d99b616.css.map": "/static/css/main.2d99b616.css.map",
-    "main.b616ba75.js.map": "/static/js/main.b616ba75.js.map",
+    "main.6ea839fa.css.map": "/static/css/main.6ea839fa.css.map",
+    "main.91a6d5c0.js.map": "/static/js/main.91a6d5c0.js.map",
     "787.28d0d653.chunk.js.map": "/static/js/787.28d0d653.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d99b616.css",
-    "static/js/main.b616ba75.js"
+    "static/css/main.6ea839fa.css",
+    "static/js/main.91a6d5c0.js"
   ]
 }
