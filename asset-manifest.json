@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.3194689b.css",
-    "main.js": "/static/js/main.14b42e3d.js",
+    "main.js": "/static/js/main.49ff8054.js",
     "static/js/787.28d0d653.chunk.js": "/static/js/787.28d0d653.chunk.js",
     "static/media/warteraum.jpg": "/static/media/warteraum.fc756d41c12b204a5156.jpg",
     "static/media/bewegungsraum.jpg": "/static/media/bewegungsraum.86c15838bc5e027a3124.jpg",
@@ -22,11 +22,11 @@
     "static/media/ubartel.jpg": "/static/media/ubartel.4efaf90a484c54836a85.jpg",
     "index.html": "/index.html",
     "main.3194689b.css.map": "/static/css/main.3194689b.css.map",
-    "main.14b42e3d.js.map": "/static/js/main.14b42e3d.js.map",
+    "main.49ff8054.js.map": "/static/js/main.49ff8054.js.map",
     "787.28d0d653.chunk.js.map": "/static/js/787.28d0d653.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3194689b.css",
-    "static/js/main.14b42e3d.js"
+    "static/js/main.49ff8054.js"
   ]
 }
