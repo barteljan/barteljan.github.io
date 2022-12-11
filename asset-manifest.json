@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.9355582c.css",
-    "main.js": "/static/js/main.8f5a6357.js",
+    "main.css": "/static/css/main.42c675fd.css",
+    "main.js": "/static/js/main.9ee2cf31.js",
     "static/js/787.28d0d653.chunk.js": "/static/js/787.28d0d653.chunk.js",
     "static/media/warteraum.jpg": "/static/media/warteraum.fc756d41c12b204a5156.jpg",
     "static/media/bewegungsraum.jpg": "/static/media/bewegungsraum.86c15838bc5e027a3124.jpg",
@@ -18,18 +18,20 @@
     "static/media/iris.jpg": "/static/media/iris.2354d2c31abcea6adf79.jpg",
     "static/media/ubartel.jpg": "/static/media/ubartel.3ea9714b454866eb9d2b.jpg",
     "static/media/kinder.jpg": "/static/media/kinder.5f91f0265ca74e2a2634.jpg",
-    "static/media/titelImage.jpg": "/static/media/titelImage.3a2605ed386c43be2d09.jpg",
     "static/media/erwachsene.jpg": "/static/media/erwachsene.dca6e161d6c7b3ccae5e.jpg",
+    "static/media/Kreuzwortraetsel.png": "/static/media/Kreuzwortraetsel.8fe9609bd21f528cf80d.png",
     "static/media/team.jpg": "/static/media/team.dfc8b22f762d9f0e8a80.jpg",
+    "static/media/weihnachten.png": "/static/media/weihnachten.fc00a948562eeade913c.png",
+    "static/media/Kreuzwortraetsel_loesung.png": "/static/media/Kreuzwortraetsel_loesung.00f8eaa76929deebdc65.png",
     "static/media/map.jpg": "/static/media/map.011e18867680b08a4a08.jpg",
     "static/media/logo.png": "/static/media/logo.514422876e818817644d.png",
     "index.html": "/index.html",
-    "main.9355582c.css.map": "/static/css/main.9355582c.css.map",
-    "main.8f5a6357.js.map": "/static/js/main.8f5a6357.js.map",
+    "main.42c675fd.css.map": "/static/css/main.42c675fd.css.map",
+    "main.9ee2cf31.js.map": "/static/js/main.9ee2cf31.js.map",
     "787.28d0d653.chunk.js.map": "/static/js/787.28d0d653.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9355582c.css",
-    "static/js/main.8f5a6357.js"
+    "static/css/main.42c675fd.css",
+    "static/js/main.9ee2cf31.js"
   ]
 }
